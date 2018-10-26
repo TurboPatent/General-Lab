@@ -1,0 +1,93 @@
+{
+  "name": "General-Lab",
+  "description": "General lab materials",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/General-Lab.tp",
+  "details": {
+    "counts": {
+      "termCount": 0,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "drawings": [
+      {
+        "figure": "Fig. 1",
+        "briefDescription": "<p><b>Fig. 1</b> illustrates a reaction system 100 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "reaction system",
+            "number": 100
+          },
+          {
+            "part": "reaction vessel",
+            "number": 102
+          },
+          {
+            "part": "instrument",
+            "number": 104
+          },
+          {
+            "part": "reagent(s)",
+            "number": 106
+          },
+          {
+            "part": "temperature",
+            "number": 108
+          },
+          {
+            "part": "initial reaction condition database",
+            "number": 110
+          },
+          {
+            "part": "reaction results database",
+            "number": 112
+          },
+          {
+            "part": "results",
+            "number": 114
+          },
+          {
+            "part": "reaction site",
+            "number": 116
+          },
+          {
+            "part": "sample",
+            "number": 118
+          },
+          {
+            "part": "pressure",
+            "number": 120
+          },
+          {
+            "part": "quantities",
+            "number": 122
+          },
+          {
+            "part": "initial conditions and quantities",
+            "number": 124
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 2",
+        "briefDescription": "<p><b>Fig. 2</b> illustrates an item 200 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "item",
+            "number": 200
+          }
+        ]
+      }
+    ],
+    "glossary": [],
+    "terms": []
+  },
+  "repository": "https://github.com/TurboPatent/General-Lab"
+}
