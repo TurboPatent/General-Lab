@@ -1,13 +1,12 @@
 {
   "name": "General-Lab",
-  "description": "General lab materials",
+  "description": "General Lab Materials",
   "owner": {
     "login": "TurboPatent",
     "type": "organization"
   },
   "license": "MIT",
   "isPrivate": false,
-  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/General-Lab.tp",
   "details": {
     "counts": {
       "termCount": 0,
@@ -16,78 +15,70 @@
       "drawingCount": 2,
       "glossaryCount": 0
     },
-    "drawings": [
+    "briefDescriptions": [
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"51a300bd-d358-ba92-7c02-5bd2b1622e74\" id=\"idc70876f7-e89c-9b60-b86e-42a752c71cb2\" data-type=\"drawingObject\">reaction system 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"e60eeaf5-3a6d-cad2-a7fc-f7c60234cd5e\" id=\"idcaea3c81-fd48-c446-3846-e7ec0df3501d\" data-type=\"drawingObject\">item 200</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
       {
-        "figure": "Fig. 1",
-        "briefDescription": "<p><b>Fig. 1</b> illustrates a reaction system 100 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "reaction system",
-            "number": 100
-          },
-          {
-            "part": "reaction vessel",
-            "number": 102
-          },
-          {
-            "part": "instrument",
-            "number": 104
-          },
-          {
-            "part": "reagent(s)",
-            "number": 106
-          },
-          {
-            "part": "temperature",
-            "number": 108
-          },
-          {
-            "part": "initial reaction condition database",
-            "number": 110
-          },
-          {
-            "part": "reaction results database",
-            "number": 112
-          },
-          {
-            "part": "results",
-            "number": 114
-          },
-          {
-            "part": "reaction site",
-            "number": 116
-          },
-          {
-            "part": "sample",
-            "number": 118
-          },
-          {
-            "part": "pressure",
-            "number": 120
-          },
-          {
-            "part": "quantities",
-            "number": 122
-          },
-          {
-            "part": "initial conditions and quantities",
-            "number": 124
-          }
-        ]
+        "name": "reaction system",
+        "number": 100
       },
       {
-        "figure": "Fig. 2",
-        "briefDescription": "<p><b>Fig. 2</b> illustrates an item 200 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "item",
-            "number": 200
-          }
-        ]
+        "name": "reaction vessel",
+        "number": 102
+      },
+      {
+        "name": "instrument",
+        "number": 104
+      },
+      {
+        "name": "reagent(s)",
+        "number": 106
+      },
+      {
+        "name": "temperature",
+        "number": 108
+      },
+      {
+        "name": "initial reaction condition database",
+        "number": 110
+      },
+      {
+        "name": "reaction results database",
+        "number": 112
+      },
+      {
+        "name": "results",
+        "number": 114
+      },
+      {
+        "name": "reaction site",
+        "number": 116
+      },
+      {
+        "name": "sample",
+        "number": 118
+      },
+      {
+        "name": "pressure",
+        "number": 120
+      },
+      {
+        "name": "quantities",
+        "number": 122
+      },
+      {
+        "name": "initial conditions and quantities",
+        "number": 124
+      },
+      {
+        "name": "item",
+        "number": 200
       }
     ],
-    "glossary": [],
-    "terms": []
+    "terms": [],
+    "glossary": []
   },
   "repository": "https://github.com/TurboPatent/General-Lab"
 }
